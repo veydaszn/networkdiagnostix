@@ -12,8 +12,8 @@ A simple Networking & Configuration project used to perform real network checks.
 
 ## 🏗 How to Run
  1️⃣ Clone the repo
-    git clone https://github.com/veydaszn/netdiag
-    cd netdiag/src
+    git clone https://github.com/veydaszn/netdiagnostix
+    cd netdiagnostix/src
 
 2️⃣ Run the main file
     python3 main.py
